@@ -1,0 +1,8 @@
+{
+    "clientVersion":  "26.2-1",
+    "clientUrl":  "https://github.com/ohrdima4313-cmd/bypassrecode-updates/releases/download/v26.2-1/ByPassRecode-26.2.jar",
+    "clientSha256":  "f361bce3d6ce9433e9f64540d3fd8ca941775eb21baab8741e1cd4e20ed91d4a",
+    "loaderVersion":  "1.1.0",
+    "loaderUrl":  "https://github.com/ohrdima4313-cmd/bypassrecode-updates/releases/download/v26.2-1/Loader.ps1",
+    "loaderSha256":  "cbc851662a806ce06e6840c62d23e33ca55e1cf95e13f0d05719aaa808f94997"
+}
